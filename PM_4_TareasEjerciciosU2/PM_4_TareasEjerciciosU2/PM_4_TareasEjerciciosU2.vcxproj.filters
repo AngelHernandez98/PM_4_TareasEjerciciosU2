@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <MASM Include="P3_CuboNumero_.asm" />
+    <MASM Include="P5_PagandoConGatos_.asm" />
+    <MASM Include="P6_CalcularIMC_.asm" />
+    <MASM Include="P20_Pedir_N_NumerosImprimirSumatoria_.asm" />
+    <MASM Include="P21_Ejercicio_Ingresar_N_NumerosDeterminarMenor.asm" />
+    <MASM Include="P22_Ejercicio_SimilacionCompuerta_OR_.asm" />
+    <MASM Include="P24_Ejercicio_ImprimirNota_.asm" />
+    <MASM Include="P18_Promedio_5_Numeros_.asm" />
+    <MASM Include="P4_SueldoEmpleado_.asm" />
+    <MASM Include="P7_DistanciaRecorrida_.asm" />
+    <MASM Include="P10_Canvertir_CM_a_M_y_KM_.asm" />
+    <MASM Include="P16_Primeros_N_Num_Serie_Fibonachi_.asm" />
+    <MASM Include="P19_Mayor_de_N_Numeros_.asm" />
+    <MASM Include="P23_Ejercicio_Y.asm" />
+    <MASM Include="P15_Determinante_Matriz_2x2_.asm" />
+    <MASM Include="P13_Calcular_UDC_3_Numeros_.asm" />
+    <MASM Include="P26_AyudaModista_.asm" />
+    <MASM Include="P27_CompaniaAutobus_.asm" />
+    <MASM Include="P28_MSDH_.asm" />
+    <MASM Include="P30_Hamburguesa_.asm" />
+    <MASM Include="P8_NumeroDeDosDigitos_.asm" />
+    <MASM Include="P9_AreaRectangulo_.asm" />
+    <MASM Include="P11_USB_.asm" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="C:\Irvine\Lib32\Irvine32_Library\Irvine32.obj" />
+  </ItemGroup>
+</Project>
